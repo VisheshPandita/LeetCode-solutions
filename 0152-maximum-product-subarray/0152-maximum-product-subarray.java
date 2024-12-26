@@ -1,14 +1,31 @@
 public class Solution {
     public int maxProduct(int[] nums) {
-        int res = nums[0];
-        int curMin = 1, curMax = 1;
-
-        for (int num : nums) {
-            int tmp = curMax * num;
-            curMax = Math.max(Math.max(num * curMax, num * curMin), num);
-            curMin = Math.min(Math.min(tmp, num * curMin), num);
-            res = Math.max(res, curMax);
+        if (nums == null || nums.length == 0) {
+            return 0;
         }
-        return res;
+
+        int maxProduct = nums[0];
+        int currentMax = nums[0];
+        int currentMin = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+            int num = nums[i];
+
+            // If the number is negative, swap currentMax and currentMin
+            if (num < 0) {
+                int temp = currentMax;
+                currentMax = currentMin;
+                currentMin = temp;
+            }
+
+            // Update currentMax and currentMin
+            currentMax = Math.max(num, currentMax * num);
+            currentMin = Math.min(num, currentMin * num);
+
+            // Update maxProduct
+            maxProduct = Math.max(maxProduct, currentMax);
+        }
+
+        return maxProduct;
     }
 }
