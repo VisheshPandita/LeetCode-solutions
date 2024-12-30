@@ -1,37 +1,52 @@
 class Solution {
+    static class Pair<K, V> {
+        private K key;
+        private V value;
+
+        public Pair(K key, V value) {
+            this.key = key;
+            this.value = value;
+        }
+
+        public K getKey() {
+            return key;
+        }
+
+        public V getValue() {
+            return value;
+        }
+    }
+
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> set = new HashSet<>(wordList);
-        if(!set.contains(endWord)) return 0;
-        
-        Queue<String> queue = new LinkedList<>();
-        queue.add(beginWord);
-        
-        Set<String> visited = new HashSet<>();
-        queue.add(beginWord);
-        
-        int changes = 1;
-        
+        Set<String> wordSet = new HashSet<>(wordList);
+        if(!wordSet.contains(endWord)) return 0;
+
+        Queue<Pair<String, Integer>> queue = new LinkedList<>();
+        queue.offer(new Pair<>(beginWord, 1));
+
         while(!queue.isEmpty()){
-            int size = queue.size();
-            for(int i = 0; i < size; i++){
-                String word = queue.poll();
-                if(word.equals(endWord)) return changes;
-                
-                for(int j = 0; j < word.length(); j++){
-                    for(int k = 'a'; k <= 'z'; k++){
-                        char arr[] = word.toCharArray();
-                        arr[j] = (char) k;
-                        
-                        String str = new String(arr);
-                        if(set.contains(str) && !visited.contains(str)){
-                            queue.add(str);
-                            visited.add(str);
-                        }
+            Pair<String, Integer> node = queue.poll();
+            String currentWord = node.getKey();
+            int currentLevel = node.getValue();
+
+            for(int i=0;i<currentWord.length();i++){
+                char[] wordChars = currentWord.toCharArray();
+                for(char c='a';c<='z';c++) {
+                    wordChars[i] = c;
+                    String nextWord = new String(wordChars);
+
+                    if (nextWord.equals(endWord)) {
+                        return currentLevel + 1; 
+                    }
+
+                    if (wordSet.contains(nextWord)) {
+                        wordSet.remove(nextWord);
+                        queue.offer(new Pair<>(nextWord, currentLevel + 1));
                     }
                 }
             }
-            ++changes;
         }
+
         return 0;
     }
 }
