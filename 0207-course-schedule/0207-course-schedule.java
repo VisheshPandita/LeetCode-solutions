@@ -1,42 +1,37 @@
 class Solution {
-    private Map<Integer, List<Integer>> preMap = new HashMap<>();
-    private Set<Integer> visiting = new HashSet<>();
-
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        for(int i=0;i<numCourses;i++){
-            preMap.put(i, new ArrayList<>());
+        List<List<Integer>> graph = new ArrayList<>();
+        int[] indegree = new int[numCourses];
+
+        for(int i=0;i<numCourses;i++) {
+            graph.add(new ArrayList<>());
         }
 
         for(int[] prereq: prerequisites) {
-            preMap.get(prereq[0]).add(prereq[1]);
+            int course = prereq[0];
+            int prerequisite = prereq[1];
+            graph.get(prerequisite).add(course);
+            indegree[course]++;
         }
 
-        for(int c=0;c<numCourses;c++){
-            if(!dfs(c)){
-                return false;
+        Queue<Integer> queue = new LinkedList<>();
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0) queue.offer(i);
+        }
+
+        int count=0;
+        while(!queue.isEmpty()){
+            int course = queue.poll();
+            count++;
+
+            for(int neighbour: graph.get(course)){
+                indegree[neighbour]--;
+                if(indegree[neighbour]==0){
+                    queue.offer(neighbour);
+                }
             }
         }
 
-        return true;
-    }
-
-    private boolean dfs(int crs){
-        if(visiting.contains(crs)){
-            return false;
-        }
-
-        if(preMap.get(crs).isEmpty()){
-            return true;
-        }
-
-        visiting.add(crs);
-        for (int pre : preMap.get(crs)) {
-            if (!dfs(pre)) {
-                return false;
-            }
-        }
-        visiting.remove(crs);
-        preMap.put(crs, new ArrayList<>());
-        return true;
+        return count == numCourses;
     }
 }
