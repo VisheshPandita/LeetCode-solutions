@@ -7,6 +7,7 @@ class Solution {
         for(char c: t.toCharArray()){
             if(c == s.charAt(ptr)){
                 ptr++;
+                if(ptr == s.length()) return true;
             }
         }
 
