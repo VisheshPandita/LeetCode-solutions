@@ -1,19 +1,19 @@
 class Solution {
     public int numDecodings(String s) {
-        int[] dp = new int[s.length()+1];
-        dp[s.length()] = 1;
-        for(int i=s.length()-1;i>=0;i--){
-            if(s.charAt(i)=='0'){
-                dp[i]=0;
-            } else {
-                dp[i] = dp[i+1];
-                if (i + 1 < s.length() && (s.charAt(i) == '1' || 
-                    s.charAt(i) == '2' && s.charAt(i + 1) < '7')) {
-                    dp[i] += dp[i + 2];
-                }
-            }
-        }
+        int n = s.length();
+        if (n == 0 || s.charAt(0) == '0') return 0;  // Invalid start
 
-        return dp[0];
+        int[] dp = new int[n + 1];
+        dp[0] = 1;  // Empty string has one way
+        dp[1] = s.charAt(0) != '0' ? 1 : 0;  
+
+        for (int i = 2; i <= n; i++) {
+            int oneDigit = Integer.parseInt(s.substring(i - 1, i)); // Single digit
+            int twoDigits = Integer.parseInt(s.substring(i - 2, i)); // Two-digit number
+
+            if (oneDigit >= 1) dp[i] += dp[i - 1];  // Single digit decoding
+            if (twoDigits >= 10 && twoDigits <= 26) dp[i] += dp[i - 2];  // Two-digit decoding
+        }
+        return dp[n];
     }
 }
