@@ -1,15 +1,17 @@
 class Solution {
     public int partitionString(String s) {
         int ans = 1;
-        boolean[] seen = new boolean[26];
+        int seenMask = 0;
 
         for(char ch: s.toCharArray()) {
-            if(seen[ch - 'a']) {
+            int bitPosition = ch - 'a';
+
+            if((seenMask & (1 << bitPosition)) != 0) {
                 ans++;
-                seen = new boolean[26];
+                seenMask = 0;
             }
 
-            seen[ch - 'a'] = true;
+            seenMask |= (1 << bitPosition);
         }
 
         return ans;
