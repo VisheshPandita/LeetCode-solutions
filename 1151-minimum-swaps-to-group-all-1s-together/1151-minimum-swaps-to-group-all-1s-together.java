@@ -1,32 +1,31 @@
 class Solution {
     public int minSwaps(int[] data) {
-        int totalOne=0;
-
-        for(int bit: data) {
-            if(bit==1) totalOne++;
+        int totalOnes = 0;
+        for (int num : data) {
+            totalOnes += num;
         }
 
-        int minZero=0;
-        int i;
-        for(i=0;i<totalOne;i++) {
-            if(data[i] == 0) minZero++;
+        if (totalOnes <= 1) {
+            return 0;
         }
 
-        int currZero = minZero;
-        while(i<data.length){
-            if(data[i - totalOne] == 0){
-                currZero--;
+        int currentOnesInWindow = 0;
+        for (int i = 0; i < totalOnes; i++) {
+            currentOnesInWindow += data[i];
+        }
+
+        int maxOnesInWindow = currentOnesInWindow;
+
+        for (int i = totalOnes; i < data.length; i++) {
+            currentOnesInWindow += data[i];
+            
+            currentOnesInWindow -= data[i - totalOnes];
+
+            if (currentOnesInWindow > maxOnesInWindow) {
+                maxOnesInWindow = currentOnesInWindow;
             }
-
-            if(data[i] == 0) {
-                currZero++;
-            }
-
-            i++;
-
-            minZero = Math.min(minZero, currZero);
         }
 
-        return minZero;
+        return totalOnes - maxOnesInWindow;
     }
 }
