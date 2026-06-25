@@ -24,10 +24,12 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 | [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 | [2534-time-taken-to-cross-the-door](https://github.com/VisheshPandita/DSA/tree/main/2534-time-taken-to-cross-the-door/) | Hard |
 ## Queue
@@ -78,4 +80,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 <!---LeetCode Topics End-->
