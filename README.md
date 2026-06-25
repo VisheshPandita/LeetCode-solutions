@@ -28,6 +28,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
+| [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 | [2534-time-taken-to-cross-the-door](https://github.com/VisheshPandita/DSA/tree/main/2534-time-taken-to-cross-the-door/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -53,4 +54,28 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 <!---LeetCode Topics End-->
