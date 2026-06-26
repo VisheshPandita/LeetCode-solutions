@@ -88,5 +88,6 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/VisheshPandita/DSA/tree/main/1114-print-in-order/) | Easy |
+| [1115-print-foobar-alternately](https://github.com/VisheshPandita/DSA/tree/main/1115-print-foobar-alternately/) | Medium |
 | [1279-traffic-light-controlled-intersection](https://github.com/VisheshPandita/DSA/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
 <!---LeetCode Topics End-->
