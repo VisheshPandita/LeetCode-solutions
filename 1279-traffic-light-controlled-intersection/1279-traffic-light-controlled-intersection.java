@@ -1,7 +1,9 @@
 class TrafficLight {
+    private final ReentrantLock lock;
     private int currentGreen;
 
     public TrafficLight() {
+        lock = new ReentrantLock(true);
         currentGreen = 1;
     }
     
@@ -12,13 +14,16 @@ class TrafficLight {
         Runnable turnGreen,  // Use turnGreen.run() to turn light to green on current road
         Runnable crossCar    // Use crossCar.run() to make car cross the intersection 
     ) {
-        synchronized(this) {
+        lock.lock();
+        try {
             if(currentGreen != roadId) {
                 turnGreen.run();
                 currentGreen = roadId;
             }
 
             crossCar.run();
+        } finally {
+            lock.unlock();
         }
     }
 }
