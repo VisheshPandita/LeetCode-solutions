@@ -29,6 +29,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 | [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 | [2534-time-taken-to-cross-the-door](https://github.com/VisheshPandita/DSA/tree/main/2534-time-taken-to-cross-the-door/) | Hard |
@@ -91,4 +92,16 @@ Collection of LeetCode questions
 | [1115-print-foobar-alternately](https://github.com/VisheshPandita/DSA/tree/main/1115-print-foobar-alternately/) | Medium |
 | [1116-print-zero-even-odd](https://github.com/VisheshPandita/DSA/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1279-traffic-light-controlled-intersection](https://github.com/VisheshPandita/DSA/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 <!---LeetCode Topics End-->
