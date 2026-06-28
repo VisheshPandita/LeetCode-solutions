@@ -30,6 +30,7 @@ Collection of LeetCode questions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VisheshPandita/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
