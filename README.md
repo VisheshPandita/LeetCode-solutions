@@ -6,6 +6,7 @@ Collection of LeetCode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VisheshPandita/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/VisheshPandita/DSA/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Collection of LeetCode questions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VisheshPandita/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -117,4 +119,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/VisheshPandita/DSA/tree/main/0146-lru-cache/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VisheshPandita/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
