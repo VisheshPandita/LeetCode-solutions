@@ -1,24 +1,21 @@
 class Solution {
-    Map<Integer, Integer> memo = new HashMap<>();
-    private int dfs(int[] coins, int amount) {
-        if(amount==0) return 0;
+    public int coinChange(int[] coins, int amount) {
+        if(amount<1) return 0;
+        int[] dp = new int[amount+1];
 
-        if(memo.containsKey(amount)){
-            return memo.get(amount);
-        }
+        int maxSentinel = amount+1;
+        Arrays.fill(dp, maxSentinel);
 
-        int res = (int)1e9;
-        for(int coin: coins){
-            if(amount-coin>=0){
-                res = Math.min(res, 1+dfs(coins, amount-coin));
+        dp[0]=0;
+
+        for(int i=1;i<=amount;i++) {
+            for(int coin: coins) {
+                if(coin <= i) {
+                    dp[i] = Math.min(dp[i], dp[i - coin]+1);
+                }
             }
         }
-        memo.put(amount, res);
-        return res;
-    }
 
-    public int coinChange(int[] coins, int amount) {
-        int minCoins = dfs(coins, amount);
-        return (minCoins==1e9) ? -1 : minCoins;
+        return dp[amount] == maxSentinel ? -1 : dp[amount];
     }
 }
