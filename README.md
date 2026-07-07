@@ -54,6 +54,7 @@ Collection of LeetCode questions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/VisheshPandita/DSA/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -139,4 +140,16 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/VisheshPandita/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
