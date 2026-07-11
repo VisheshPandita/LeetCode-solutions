@@ -50,11 +50,13 @@ Collection of LeetCode questions
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/VisheshPandita/DSA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/VisheshPandita/DSA/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/VisheshPandita/DSA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/VisheshPandita/DSA/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/VisheshPandita/DSA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/VisheshPandita/DSA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
