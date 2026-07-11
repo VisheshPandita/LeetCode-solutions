@@ -144,6 +144,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/VisheshPandita/DSA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +153,5 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/VisheshPandita/DSA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 <!---LeetCode Topics End-->
