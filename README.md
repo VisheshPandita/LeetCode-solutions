@@ -16,12 +16,14 @@ Collection of LeetCode questions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0146-lru-cache](https://github.com/VisheshPandita/DSA/tree/main/0146-lru-cache/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/VisheshPandita/DSA/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@ Collection of LeetCode questions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/VisheshPandita/DSA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/VisheshPandita/DSA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
@@ -157,4 +160,8 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/VisheshPandita/DSA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
