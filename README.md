@@ -18,6 +18,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0146-lru-cache](https://github.com/VisheshPandita/DSA/tree/main/0146-lru-cache/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/VisheshPandita/DSA/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## String
@@ -37,6 +38,7 @@ Collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 | [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
@@ -150,6 +152,7 @@ Collection of LeetCode questions
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/VisheshPandita/DSA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/VisheshPandita/DSA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -160,8 +163,13 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VisheshPandita/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/VisheshPandita/DSA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 <!---LeetCode Topics End-->
