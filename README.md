@@ -43,6 +43,7 @@ Collection of LeetCode questions
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 | [2519-count-the-number-of-k-big-indices](https://github.com/VisheshPandita/DSA/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 | [2534-time-taken-to-cross-the-door](https://github.com/VisheshPandita/DSA/tree/main/2534-time-taken-to-cross-the-door/) | Hard |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/VisheshPandita/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,8 +171,17 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 <!---LeetCode Topics End-->
