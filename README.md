@@ -16,6 +16,7 @@ Collection of LeetCode questions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VisheshPandita/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0146-lru-cache](https://github.com/VisheshPandita/DSA/tree/main/0146-lru-cache/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VisheshPandita/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
@@ -70,6 +72,7 @@ Collection of LeetCode questions
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VisheshPandita/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
