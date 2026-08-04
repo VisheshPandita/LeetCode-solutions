@@ -27,6 +27,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VisheshPandita/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/VisheshPandita/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ Collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VisheshPandita/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/VisheshPandita/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 ## Stack
@@ -189,4 +191,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/VisheshPandita/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
