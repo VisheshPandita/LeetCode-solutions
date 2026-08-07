@@ -38,6 +38,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/VisheshPandita/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VisheshPandita/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@ Collection of LeetCode questions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
