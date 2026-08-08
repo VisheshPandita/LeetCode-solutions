@@ -40,6 +40,7 @@ Collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VisheshPandita/DSA/tree/main/0027-remove-element/) | Easy |
 | [0063-unique-paths-ii](https://github.com/VisheshPandita/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VisheshPandita/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VisheshPandita/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VisheshPandita/DSA/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VisheshPandita/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 ## Concurrency
