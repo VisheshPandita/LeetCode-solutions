@@ -54,6 +54,7 @@ Collection of LeetCode questions
 | [0169-majority-element](https://github.com/VisheshPandita/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/VisheshPandita/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0274-h-index](https://github.com/VisheshPandita/DSA/tree/main/0274-h-index/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/VisheshPandita/DSA/tree/main/0169-majority-element/) | Easy |
+| [0274-h-index](https://github.com/VisheshPandita/DSA/tree/main/0274-h-index/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -228,4 +230,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VisheshPandita/DSA/tree/main/0169-majority-element/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/VisheshPandita/DSA/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
