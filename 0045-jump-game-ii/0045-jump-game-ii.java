@@ -1,25 +1,19 @@
 class Solution {
     public int jump(int[] nums) {
-        int jumps = 0;       // Number of jumps made
-        int currentEnd = 0;  // End of the current range
-        int farthest = 0;    // Farthest index reachable
+        int n = nums.length;
+        int[] dp = new int[n];
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        dp[0] = 0;
 
-        for (int i = 0; i < nums.length - 1; i++) {
-            // Update the farthest index reachable
-            farthest = Math.max(farthest, i + nums[i]);
-
-            // If we reach the end of the current range
-            if (i == currentEnd) {
-                jumps++;
-                currentEnd = farthest;
-
-                // If the currentEnd covers the last index, we can stop
-                if (currentEnd >= nums.length - 1) {
-                    break;
-                }
+        for(int i=0; i<n; i++) {
+            int start = i+1;
+            int end = i+nums[i];
+            while(start<=end && start<n) {
+                dp[start] = Math.min(dp[start], dp[i]+1);
+                start++;
             }
         }
 
-        return jumps;
+        return dp[n-1] == Integer.MAX_VALUE ? -1 : dp[n-1];
     }
 }
