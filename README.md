@@ -34,6 +34,7 @@ Collection of LeetCode questions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/VisheshPandita/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VisheshPandita/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VisheshPandita/DSA/tree/main/0027-remove-element/) | Easy |
+| [0055-jump-game](https://github.com/VisheshPandita/DSA/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VisheshPandita/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VisheshPandita/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode questions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/VisheshPandita/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/VisheshPandita/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VisheshPandita/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/VisheshPandita/DSA/tree/main/0070-climbing-stairs/) | Easy |
