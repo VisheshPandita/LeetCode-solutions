@@ -56,6 +56,7 @@ Collection of LeetCode questions
 | [0169-majority-element](https://github.com/VisheshPandita/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/VisheshPandita/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/VisheshPandita/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/VisheshPandita/DSA/tree/main/0274-h-index/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -242,4 +243,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/VisheshPandita/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
