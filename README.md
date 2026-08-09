@@ -9,6 +9,7 @@ Collection of LeetCode questions
 | [0062-unique-paths](https://github.com/VisheshPandita/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/VisheshPandita/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/VisheshPandita/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/VisheshPandita/DSA/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Collection of LeetCode questions
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0146-lru-cache](https://github.com/VisheshPandita/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/VisheshPandita/DSA/tree/main/0169-majority-element/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/VisheshPandita/DSA/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -56,6 +58,7 @@ Collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0274-h-index](https://github.com/VisheshPandita/DSA/tree/main/0274-h-index/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/VisheshPandita/DSA/tree/main/1151-minimum-swaps-to-group-all-1s-together/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/VisheshPandita/DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
@@ -163,6 +166,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/VisheshPandita/DSA/tree/main/0146-lru-cache/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +238,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/VisheshPandita/DSA/tree/main/0274-h-index/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
