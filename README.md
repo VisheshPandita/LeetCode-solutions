@@ -48,6 +48,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VisheshPandita/DSA/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/VisheshPandita/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/VisheshPandita/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VisheshPandita/DSA/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VisheshPandita/DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VisheshPandita/DSA/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/VisheshPandita/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VisheshPandita/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/VisheshPandita/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -143,6 +145,7 @@ Collection of LeetCode questions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/VisheshPandita/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/VisheshPandita/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VisheshPandita/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/VisheshPandita/DSA/tree/main/0062-unique-paths/) | Medium |
@@ -158,10 +161,12 @@ Collection of LeetCode questions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/VisheshPandita/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/VisheshPandita/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
