@@ -33,6 +33,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VisheshPandita/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/VisheshPandita/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/VisheshPandita/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/VisheshPandita/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
