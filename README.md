@@ -10,6 +10,7 @@ Collection of LeetCode questions
 | [0062-unique-paths](https://github.com/VisheshPandita/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/VisheshPandita/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/VisheshPandita/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0326-power-of-three](https://github.com/VisheshPandita/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/VisheshPandita/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/VisheshPandita/DSA/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Number Theory
@@ -260,4 +261,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/VisheshPandita/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/VisheshPandita/DSA/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
