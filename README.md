@@ -37,6 +37,7 @@ Collection of LeetCode questions
 | [0014-longest-common-prefix](https://github.com/VisheshPandita/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/VisheshPandita/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/VisheshPandita/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/VisheshPandita/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
@@ -140,6 +141,7 @@ Collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/VisheshPandita/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VisheshPandita/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/VisheshPandita/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/VisheshPandita/DSA/tree/main/0189-rotate-array/) | Medium |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 ## Concurrency
