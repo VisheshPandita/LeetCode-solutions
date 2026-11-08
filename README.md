@@ -39,6 +39,7 @@ Collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/VisheshPandita/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/VisheshPandita/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/VisheshPandita/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/VisheshPandita/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/VisheshPandita/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/VisheshPandita/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
@@ -145,6 +146,7 @@ Collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/VisheshPandita/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VisheshPandita/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/VisheshPandita/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/VisheshPandita/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/VisheshPandita/DSA/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ Collection of LeetCode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VisheshPandita/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0213-house-robber-ii](https://github.com/VisheshPandita/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/VisheshPandita/DSA/tree/main/0377-combination-sum-iv/) | Medium |
+| [0392-is-subsequence](https://github.com/VisheshPandita/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/VisheshPandita/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/VisheshPandita/DSA/tree/main/2355-maximum-number-of-books-you-can-take/) | Hard |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/VisheshPandita/DSA/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
