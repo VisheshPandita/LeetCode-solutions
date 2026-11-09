@@ -141,6 +141,7 @@ Collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VisheshPandita/DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/VisheshPandita/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/VisheshPandita/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VisheshPandita/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VisheshPandita/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/VisheshPandita/DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/VisheshPandita/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/VisheshPandita/DSA/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
